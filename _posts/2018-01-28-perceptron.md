@@ -1,9 +1,9 @@
 ---
-title: "Data Wrangling Project"
+title: "Example Project"
 date: 2018-01-28
-tags: [data wrangling, data science, messy data]
+tags: [data science]
 header:
-  image: "/images/perceptron/percept.jpg"
+  # image: "/images/perceptron/percept.jpg"
 excerpt: "Data Wrangling, Data Science, Messy Data"
 mathjax: "true"
 ---
@@ -56,8 +56,4 @@ Here's an image:
 Here's another image using Kramdown:
 ![alt]({{ site.url }}{{ site.baseurl }}/images/perceptron/linsep.jpg)
 
-Here's some math:
 
-$$z=x+y$$
-
-You can also put it inline $$z=x+y$$
