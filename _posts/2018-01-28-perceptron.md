@@ -12,5 +12,5 @@ mathjax: "true"
 <script src="https://gist.github.com/CasvanOosterhout/00a96c9ad9e409486527ee2a73e70398.js"></script>
 
 ### End product
-<img src="{{ site.url }}{{ site.baseurl }}/images/PB3.png" alt="linearly separable data">
+<img src="{{ site.url }}{{ site.baseurl }}/images/2021-09-12.png" alt="linearly separable data">
 
